@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: vutuanlinh2002/tuanlinhcicd:test1
+          tags:  vutuanlinh2002/tuanlinhcicd:test1
 
 
   pull-and-up:
